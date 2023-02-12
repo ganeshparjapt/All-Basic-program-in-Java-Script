@@ -15,4 +15,4 @@ const person2 = new erson();
 //access properties
 console.log(person1.name);
 console.log(person2.name);
-constructor function
+
