@@ -31,3 +31,5 @@ const result5 = String(aaa);
 const result6 = String(bbb);
 console.log(result5);
 console.log(result6);
+console.log(result6);
+console.log(result6);
