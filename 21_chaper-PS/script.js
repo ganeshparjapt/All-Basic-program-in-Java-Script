@@ -4,6 +4,7 @@ let newarrr = parseInt(prompt("Enter the value of N to add number in array"));
 arr.push(newarrr);
 console.log(arr);
 //prectice problem -2
+console.time("process")
 let a;
 do{
     a = parseInt(prompt("Enter the nubmwer"));
@@ -13,6 +14,7 @@ do{
     while(a != 0){
         console.log(arr);
     }
+    console.timeEnd("process")
 let  fi = (x)=>{
     return x % 10 === 0;
 }
