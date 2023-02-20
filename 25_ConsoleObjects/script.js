@@ -1,0 +1,7 @@
+// console.log(console)
+console.log("console")
+console.info("information")
+console.warn("warning console")
+console.error(" this is Error console")
+console.assert("err" != false)
+console.assert("err" == false)
