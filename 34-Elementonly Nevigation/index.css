@@ -1,0 +1,10 @@
+*{
+    padding: 0px;
+    margin: 0px;
+
+}
+ul{
+    display: flex;
+    background-color: gray;
+    height: 50px;
+}
