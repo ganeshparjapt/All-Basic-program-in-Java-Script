@@ -18,6 +18,7 @@ function isPrime(num) {
     // if the number is not divisible by any number between 2 and its square root, it's prime
     // if the number is not divisible by any number between 2 and its square root, it's prime
     // if the number is not divisible by any number between 2 and its square root, it's prime
+    // if the number is not divisible by any number between 2 and its square root, it's prime
     return true;
   }
 
